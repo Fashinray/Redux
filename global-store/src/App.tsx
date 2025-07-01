@@ -1,7 +1,8 @@
 
 import { Provider } from 'react-redux'
 import Navigation from './navigation'
-import { store } from './navigation/redux/store'
+import { store } from './redux/store'
+
 
 function App() {
 

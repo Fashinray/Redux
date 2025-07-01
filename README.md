@@ -1,5 +1,7 @@
 # Redux
 
+ // Also for "create, delete, update and markAsRead
+
 # ⚛️ React Redux Starter App
 
 A simple React + Redux application demonstrating state management using Redux Toolkit and `react-redux`. This project is structured for beginners to learn Redux concepts including slices, actions, reducers, and store configuration.
